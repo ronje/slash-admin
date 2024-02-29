@@ -1,7 +1,7 @@
 <div align="center"> 
 <br> 
 <br>
-<h1>Slash Admin 
+<h1>Iot Admin 
 </h1>
 </div>
 
